@@ -62,5 +62,5 @@ def main():
     show(rows)
 """---------------------------------------------------------------------------------"""
 if __name__ == "__main__":
-    print("Running scrapper one...")
+    print("Running apple scraper...")
     main()
